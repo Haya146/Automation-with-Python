@@ -1,2 +1,2 @@
-# AUTOMATE WITH PYTHON USING SELENIUM 
+# Atomation With Python & Selenium
 Selenium Projects
